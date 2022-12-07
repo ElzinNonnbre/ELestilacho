@@ -1,0 +1,36 @@
+/*#3F0071
+#FB2576
+#332FD0
+#0002A1*/
+.bg-primary {
+    background-color: #3F0071;
+}
+
+.text-light {
+    color: #332FD0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-secondary {
+    color: #FB2576;
+}
+
+/*.widht-100{}*/
+.bg-info {
+    background-color: #3F0071;
+}
+
+.text-primary {
+    color: #FB2576
+}
+
+.text-white {
+    color: white;
+}
